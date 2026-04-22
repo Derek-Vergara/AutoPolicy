@@ -31,7 +31,7 @@ public class AutoPolicy {
     }
 
     //Returns the makeAndModel
-    public String getMakeAndMOdel()
+    public String getMakeAndModel()
     {
         return makeAndModel;
     }
